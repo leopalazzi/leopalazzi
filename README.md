@@ -1,4 +1,4 @@
-### Welcome on the best developper in the galaxy
+### ✨ Welcome on the best developper in the galaxy
 
 <!--
 **leopalazzi/leopalazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
