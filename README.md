@@ -22,15 +22,4 @@
 <a href="mailto:leopalazzi@outlook.fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
----
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
----
-Would you ike to meet me?
-
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
-
----
-  *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* 
----
-
 ![](assets/Bottom_down.svg)
